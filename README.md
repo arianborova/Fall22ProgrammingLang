@@ -1,2 +1,2 @@
-# Fall22ProgrammingLang
+# Arian Borova
 Repo for project
